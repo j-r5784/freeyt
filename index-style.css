@@ -23,5 +23,8 @@ body {
 
 .settings {
   padding: 10px;
+}
+
+.topbar_settings {
   text-align: right;
 }
