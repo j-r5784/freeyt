@@ -12,4 +12,9 @@ body {
 .website_topbar {
   background-color: #202020;
   margin: 0px;
+  padding: 0px;
+}
+
+.homepage_redirector {
+  margin: 3px;
 }
