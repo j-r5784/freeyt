@@ -23,4 +23,7 @@ body {
 
 .settings {
   padding: 10px;
+  display: block;
+  text-align: right;
+  margin: auto;
 }
