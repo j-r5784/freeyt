@@ -1,4 +1,10 @@
+@font-face {
+  font-family: Follana;
+  src: url("res/follana.woff");
+}
+
 body {
   background-color: #111111;
   color: #FFFFFF;
+  font-family: Follana;
 }
